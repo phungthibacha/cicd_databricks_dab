@@ -1,0 +1,38 @@
+{
+  "version": "v1",
+  "host": "https://adb-849153668615875.15.azuredatabricks.net",
+  "remote_path": "/Workspace/Users/amyphung.dev@gmail.com/.bundle/dab_project/dev/files",
+  "last_modified_times": {
+    ".gitignore": "2025-01-31T17:19:12.5289339+08:00",
+    ".vscode/__builtins__.pyi": "2025-01-31T17:19:12.5312886+08:00",
+    ".vscode/extensions.json": "2025-01-31T17:19:12.5320652+08:00",
+    ".vscode/settings.json": "2025-01-31T17:19:12.533077+08:00",
+    "README.md": "2025-01-31T17:19:12.5289339+08:00",
+    "databricks.yml": "2025-01-31T17:19:12.5294488+08:00",
+    "fixtures/.gitkeep": "2025-01-31T17:19:12.5337367+08:00",
+    "resources/dab_project.job.yml": "2025-01-31T17:19:12.534242+08:00",
+    "src/notebook.ipynb": "2025-01-31T17:19:12.5353568+08:00"
+  },
+  "local_to_remote_names": {
+    ".gitignore": ".gitignore",
+    ".vscode/__builtins__.pyi": ".vscode/__builtins__.pyi",
+    ".vscode/extensions.json": ".vscode/extensions.json",
+    ".vscode/settings.json": ".vscode/settings.json",
+    "README.md": "README.md",
+    "databricks.yml": "databricks.yml",
+    "fixtures/.gitkeep": "fixtures/.gitkeep",
+    "resources/dab_project.job.yml": "resources/dab_project.job.yml",
+    "src/notebook.ipynb": "src/notebook"
+  },
+  "remote_to_local_names": {
+    ".gitignore": ".gitignore",
+    ".vscode/__builtins__.pyi": ".vscode/__builtins__.pyi",
+    ".vscode/extensions.json": ".vscode/extensions.json",
+    ".vscode/settings.json": ".vscode/settings.json",
+    "README.md": "README.md",
+    "databricks.yml": "databricks.yml",
+    "fixtures/.gitkeep": "fixtures/.gitkeep",
+    "resources/dab_project.job.yml": "resources/dab_project.job.yml",
+    "src/notebook": "src/notebook.ipynb"
+  }
+}
